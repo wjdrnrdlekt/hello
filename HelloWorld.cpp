@@ -7,9 +7,9 @@ int main(void)
 	std::cout<<"Git Test2" << endl;
 	std::cout<<"Git Test2" << endl;
 	std::cout<<"Git Test2" << endl;	
-
 	
-	std::cout<<"Git Test2" << endl;
-	std::cout<<"Git Test" << endl;	
+
+	std::cout<<"crash2" << endl;	
+
 	return 0;
 }
