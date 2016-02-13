@@ -10,7 +10,8 @@ int main(void)
 	
 
 	std::cout<<"crash2" << endl;	
-
-	std::cout<<"충돌 테스트" << endl;
+	std::cout<<"crash2" << endl;	
+	std::cout<<"crash2" << endl;	
+	
 	return 0;
 }
