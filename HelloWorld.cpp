@@ -12,5 +12,7 @@ int main(void)
 	
 	std::cout<<"충돌 테스트2" << endl;
 	std::cout<<"충돌 테스트2" << endl;
+	std::cout<<"충돌 테스트3" << endl;
+	std::cout<<"충돌 테스트3" << endl;
 	return 0;
 }
