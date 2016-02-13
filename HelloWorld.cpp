@@ -7,10 +7,10 @@ int main(void)
 	std::cout<<"Git Test2" << endl;
 	std::cout<<"Git Test2" << endl;
 	std::cout<<"Git Test2" << endl;	
-
 	
-	std::cout<<"Git Test2" << endl;
-	std::cout<<"Git Test" << endl;	
+
+	std::cout<<"crash2" << endl;	
+
 	std::cout<<"충돌 테스트" << endl;
 	std::cout<<"충돌 테스트2" << endl;
 	return 0;
